@@ -50,7 +50,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Simrith <Link to="/">simrith.com</Link>.
+        &copy; Simrith Ranjan <Link to="/">simrithranjan.com</Link>.
       </p>
     </section>
   </section>

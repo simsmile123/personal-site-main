@@ -2,6 +2,7 @@ const data = [
   {
     title: 'ML@Purdue Hackathon Leaderboard',
     subtitle: 'Full Stack Developer',
+    image: '/images/leaderboard.jpg',
     date: '2024-01-01',
     desc: `
       Developed a hackathon leaderboard system using React for ML Hackathons that seamlessly integrates testing protocols while ensuring data confidentiality. 

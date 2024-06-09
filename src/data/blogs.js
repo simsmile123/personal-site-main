@@ -3,7 +3,7 @@ const blogs = [
     title:
       'My Love/Hate Relationship with Software Engineering: Distance Runner Edition Simrith Ranjan 💗',
     link: 'https://medium.com/@simrith.ranjan/my-love-hate-relationship-with-software-engineering-distance-runner-edition-e318604a755f',
-    image: 'path-to-image.jpg',
+    image: '',
     description: 'My first take at writing more creatively',
   },
   //   {

@@ -26,7 +26,7 @@ const work = [
   {
     name: 'The Corporate Partners, Data Mine',
     position: 'Full Stack Developer',
-    url: '', // Add URL if available
+    url: 'https://datamine.purdue.edu/corporate/', // Add URL if available
     startDate: '2023-08-01',
     endDate: 'Present',
     summary: 'West Lafayette, IN',
@@ -52,7 +52,7 @@ const work = [
   {
     name: 'HackTJ',
     position: 'Director',
-    url: 'https://tjhsst.fcps.edu/', // Replace with specific URL if available
+    url: 'https://hacktj.org/', // Replace with specific URL if available
     startDate: '2020-09-01',
     endDate: '2023-05-01',
     summary: 'Alexandria, VA',
@@ -60,6 +60,7 @@ const work = [
       'Raised $30,000 and coordinated with 15 company sponsors including Jane Street and Roam',
       'Increased participant applications by 33% and secured an overnight venue at Cvent',
       'Established the Women in Tech Panel, mentored 4 teams of hackers on product development',
+      'Click the title to see our website',
     ],
   },
   {

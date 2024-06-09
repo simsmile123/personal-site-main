@@ -1,7 +1,7 @@
 const degrees = [
   {
     school: 'Purdue University',
-    degree: 'Computer Science',
+    degree: 'Bachelor of Applied Science -- Computer Science',
     link: 'https://www.cs.purdue.edu/index.html',
     year: 2026,
   },
