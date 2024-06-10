@@ -20,7 +20,7 @@ const data = [
   },
   {
     title: 'TJHSST Neuroscience Research',
-    subtitle: 'Python Developer',
+    subtitle: 'Neural Network Researcher',
     date: '2022-08-01',
     desc: `
       Tested efficacy of Tryptophan on locomotive abilities and circadian rhythm of D. melanogaster with Spinocerebellar Ataxia 6. 
@@ -31,6 +31,7 @@ const data = [
     title: 'VaxWatch Technologies',
     subtitle: 'Blockchain and Vaccine Distribution Tracking',
     date: '2021-01-01',
+    image: '/images/VaxWatch.jpg',
     desc: `
       VaxWatch Technologies uses blockchain to track vaccine distribution from the manufacturer to the consumer. 
       It also has a feature that tracks and prevents adverse effects and unusual symptoms. 
