@@ -24,11 +24,11 @@ const work = [
     ],
   },
   {
-    name: 'The Corporate Partners, Data Mine',
+    name: 'Caterpillar Inc, Data Mine Corporate Partner',
     position: 'Full Stack Developer',
     url: 'https://datamine.purdue.edu/corporate/', // Add URL if available
     startDate: '2023-08-01',
-    endDate: 'Present',
+    endDate: '2024-04-30',
     summary: 'West Lafayette, IN',
     highlights: [
       'Predict battery state of charge using a data-driven model, and synthesize high fidelity battery data sets using machine learning',
