@@ -14,7 +14,7 @@ I'm Simrith. I love all things tech, beauty, and fun.
 
 - I made a life-changing decision in 8th grade: attending a public magnet school for high school for science and technology.
 
-- Delayed learning computer science for as long as I could, but found out I could get good at it too!
+- Delayed learning computer science for as long as I could. I found out quickly I could get good at coding even though I was self taught during a pandemic!
 
 - After AP Computer Science A, I took Artificial Intelligence and Mobile and Web Development. I LOVED AI, but the class consisted of 5 girls and 29 boys. The next year, I took Computer Vision and Neuroscience Research Lab.
 
@@ -31,6 +31,7 @@ I'm Simrith. I love all things tech, beauty, and fun.
 # Travel / Geography
 
 - I'm from Northern Virginia.
+- Where I've traveled: https://www.google.com/maps/d/u/0/edit?hl=en&mid=1jIRPzPL-qH15CU9WRQl7fsPSRN_Wq94&ll=3.9869170544420314%2C0&z=2
 
 # Fun facts
 
@@ -40,12 +41,15 @@ I'm Simrith. I love all things tech, beauty, and fun.
 # I dream of
 
 - Inspiring and feeling inspired.
+- Being a female tech founder with my high social impact solution
 - Enabling a brighter future for everyone, regardless of political or socioeconomic status.
 - Treating every individual with genuine kindness and respect.
 - Staying curious.
 - Continually improving.
 
 # Resources (for tech)
+
+(still working on this feature)
 
 <!-- # Websites from people I admire
 
