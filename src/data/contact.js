@@ -20,7 +20,7 @@ const data = [
   //   icon: faFacebookF,
   // },
   {
-    link: 'https://www.instagram.com/simrith.r/',
+    link: 'https://www.instagram.com/code_w_sim/',
     label: 'Instagram',
     icon: faInstagram,
   },
