@@ -59,11 +59,11 @@ const skills = [
   //   competency: 3,
   //   category: ['ML Engineering'],
   // },
-  // {
-  //   title: 'Express.JS',
-  //   competency: 3,
-  //   category: ['Web Development', 'Javascript'],
-  // },
+  {
+    title: 'Express.JS',
+    competency: 3,
+    category: ['Web Development', 'Javascript'],
+  },
   // {
   //   title: 'D3',
   //   competency: 2,
@@ -79,11 +79,11 @@ const skills = [
   //   competency: 3,
   //   category: ['Web Development', 'Python'],
   // },
-  // {
-  //   title: 'Git',
-  //   competency: 5,
-  //   category: ['Tools'],
-  // },
+  {
+    title: 'Git',
+    competency: 5,
+    category: ['Tools'],
+  },
   // {
   //   title: 'Kubernetes',
   //   competency: 2,
@@ -99,11 +99,11 @@ const skills = [
   //   competency: 3,
   //   category: ['Tools', 'Web Development'],
   // },
-  // {
-  //   title: 'Docker',
-  //   competency: 3,
-  //   category: ['Tools', 'Data Engineering'],
-  // },
+  {
+    title: 'Docker',
+    competency: 3,
+    category: ['Tools', 'Data Engineering'],
+  },
   // {
   //   title: 'AWS Lambda',
   //   competency: 3,
@@ -174,6 +174,16 @@ const skills = [
   //   competency: 2,
   //   category: ['Languages'],
   // },
+  {
+    title: 'C',
+    competency: 3,
+    category: ['Languages'],
+  },
+  {
+    title: 'Java',
+    competency: 5,
+    category: ['Languages'],
+  },
   {
     title: 'R',
     competency: 4,
