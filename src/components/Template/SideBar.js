@@ -49,9 +49,9 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">
+      {/* <p className="copyright">
         &copy; Simrith Ranjan <Link to="/">simrithranjan.com</Link>.
-      </p>
+      </p> */}
     </section>
   </section>
 );
