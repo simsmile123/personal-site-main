@@ -14,7 +14,7 @@
 const work = [
   {
     name: 'Knudsen Institute, The Data Mine Corporate Partners Program',
-    position: 'Project Manager - Teaching Assistant',
+    position: 'Project Manager Teaching Assistant',
     url: 'https://datamine.purdue.edu/',
     startDate: '2024-08-01',
     summary: 'West Lafayette, IN',
