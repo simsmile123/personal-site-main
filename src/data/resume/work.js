@@ -13,14 +13,37 @@
  */
 const work = [
   {
-    name: 'Foodservice Consultants Studio & Forge Launch Student',
+    name: 'Knudsen Institute, The Data Mine Corporate Partners Program',
+    position: 'Project Manager - Teaching Assistant',
+    url: 'https://datamine.purdue.edu/',
+    startDate: '2024-08-01',
+    summary: 'West Lafayette, IN',
+    highlights: [
+      'Leading a team of 12 students in web scraping and information extraction techniques through prompt engineering for a Large Language Model aimed at enhancing manufacturing language comprehension',
+      'Facilitating weekly meetings, driving discussions on progress, troubleshooting, and teaching web scraping',
+    ],
+  },
+  {
+    name: 'Purdue Google Developer Student Club',
+    position: 'Head of Marketing and Treasurer',
+    url: 'https://gdg.community.dev/gdg-on-campus-purdue-university-west-lafayette-united-states/',
+    startDate: '2024-04-01',
+    summary: 'West Lafayette, IN',
+    highlights: [
+      'Boosted in-person engagement by 200% with 450 members',
+      'Provided mentorship to team members on machine learning techniques, refining their software development',
+    ],
+  },
+  {
+    name: 'Foodservice Consultants Studio',
     position: 'Software Engineering Intern',
     url: 'https://www.foodserviceconsultantsstudio.com/',
-    startDate: '2024-05-01',
+    startDate: '2024-06-01',
     endDate: '2024-08-01',
     summary: 'Richmond, VA',
     highlights: [
-      // Add specific highlights here
+      'Built a customer relationship management database capable of housing 700+ foodservice projects',
+      'Designed an excel script to help reduce human error',
     ],
   },
   {
