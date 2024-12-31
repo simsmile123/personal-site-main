@@ -1,20 +1,20 @@
 # Intro
 
-I'm Simrith. I love all things tech, beauty, and fun.
+I'm Simrith. I'm studying computer science at Purdue!
 
 # Some history
 
 <!-- - My parents are from Bihar. Their honeymoon was Washington D.C., and five years later, they had my older brother. Three years after that, they were BLESSED with twins--Amrith and Me, Simrith. -->
 
-- I have older sibings. Sibling rivalry led me to try many sports (Gymnastics, Swimming, Ballet, Running), and to excel in coursework from a young age (specifically math)
+- I have older sibings. Sibling rivalry led me to try many sports (Gymnastics, Swimming, Ballet, Running), and to excel in coursework from a young age (specifically math).
 
-- We visited India, our parent's home many times!
+- We visit India, which is where my parents are from, many times!
 
-- In the summer of 2018, I joined Mathcounts competitions. Found out I had a knack for math.
+- In the summer of 2018, I joined Mathcounts competitions, and found out I had a knack for math.
 
-- In eighth grade, I made a life-alterating decision to attend a public magnet high school called Thomas Jefferson High School for science and technology.
+- In eighth grade, I made a life-alterating decision to attend a public magnet high school called Thomas Jefferson High School for Science and Technology.
 
-- Delayed learning computer science for as long as I could. Took my first course during the summer of the COVID19 pandemic!
+- Delayed learning computer science for as long as I could. Took my first course during the summer of the COVID-19 pandemic!
 
 - After AP Computer Science A, I took Artificial Intelligence and Mobile and Web Development. Learned that a lot of knowledge transfers between programming languages, but I was disappointed to be in a class consisting of 5 girls and 29 boys. The next year, I took Computer Vision and Neuroscience Research Lab.
 
