@@ -16,7 +16,9 @@ I'm Simrith. I'm studying computer science at Purdue!
 
 - Delayed learning computer science for as long as I could. Took my first course during the summer of the COVID-19 pandemic!
 
-- After AP Computer Science A, I took Artificial Intelligence and Mobile and Web Development. Learned that a lot of knowledge transfers between programming languages, but I was disappointed to be in a class consisting of 5 girls and 29 boys. The next year, I took Computer Vision and Neuroscience Research Lab.
+- After AP Computer Science A, I took Artificial Intelligence and Mobile and Web Development. I learned that many concepts transfer between programming languages, but I was disappointed to be in a class consisting of 5 girls and 29 boys. The next year, I took Computer Vision and Neuroscience Research Lab.
+
+- Throughout high school, my favorite experiences were being HackTJ's director (in Resume) and the Conrad Challenge (in Project). I wonder what my favorite college memories will be!
 
 <!-- - My journey into tech is unique to me, but there are countless stories of women  -->
 
