@@ -13,25 +13,39 @@
  */
 const work = [
   {
+    name: 'Amazon',
+    position: 'Software Development Engineer Intern',
+    url: 'https://www.amazon.com/',
+    startDate: '2025-05-01',
+    endDate: '2025-08-01',
+    summary: 'Arlington, VA',
+    highlights: [
+      'Shipped an AI code review tool to production that delivers feedback in minutes instead of weeks',
+      'Built a code generator that automates repetitive coding tasks, saving developers 80% of manual work',
+      'Tool adopted by team and remains in active use',
+    ],
+  },
+  {
     name: 'Knudsen Institute, The Data Mine Corporate Partners Program',
-    position: 'Project Manager Teaching Assistant',
+    position: 'Project Lead - Teaching Assistant',
     url: 'https://datamine.purdue.edu/',
     startDate: '2024-08-01',
+    endDate: '2025-05-01',
     summary: 'West Lafayette, IN',
     highlights: [
-      'Leading a team of 12 students in web scraping and information extraction techniques through prompt engineering for a Large Language Model aimed at enhancing manufacturing language comprehension',
-      'Facilitating weekly meetings, driving discussions on progress, troubleshooting, and teaching web scraping',
+      'Led 12-member team building Named Entity Recognition models for manufacturing data, achieving 93.5% accuracy and 0.82 F1 score',
+      'Built web scrapers using BeautifulSoup and Selenium, extracting data from 1500+ pages across 20+ manufacturer sites',
     ],
   },
   {
     name: 'Purdue Google Developer Student Club',
-    position: 'Head of Marketing and Treasurer',
+    position: 'Vice President',
     url: 'https://gdg.community.dev/gdg-on-campus-purdue-university-west-lafayette-united-states/',
     startDate: '2024-04-01',
     summary: 'West Lafayette, IN',
     highlights: [
-      'Boosted in-person engagement by 200% with 450 members',
-      'Provided mentorship to team members on machine learning techniques, refining their software development',
+      'Scaled organization from 0 to 200+ members through outreach, events, and technical workshops',
+      'Mentored 30+ students in technical concepts and project deployments',
     ],
   },
   {
@@ -42,27 +56,26 @@ const work = [
     endDate: '2024-08-01',
     summary: 'Richmond, VA',
     highlights: [
-      'Built a customer relationship management database capable of housing 700+ foodservice projects',
-      'Designed an excel script to help reduce human error',
+      'Built client management system handling 700+ projects with real-time status tracking and automated notifications',
+      'Created backend features with automatic error checking, reducing data mistakes by 40%',
     ],
   },
   {
     name: 'Caterpillar Inc, Data Mine Corporate Partner',
     position: 'Full Stack Developer',
-    url: 'https://datamine.purdue.edu/corporate/', // Add URL if available
+    url: 'https://datamine.purdue.edu/corporate/',
     startDate: '2023-08-01',
     endDate: '2024-04-30',
     summary: 'West Lafayette, IN',
     highlights: [
-      'Predict battery state of charge using a data-driven model, and synthesize high fidelity battery data sets using machine learning',
-      'Develop a full stack app that guides operators in receiving electric chargers using push notifications',
-      'Establish the navigation functionality with the Dijkstra algorithm',
+      'Built Flutter app for fleet managers to monitor EV chargers and predict charging times using LSTM models',
+      'Designed UI in Figma and created Tableau dashboards for charge scheduling to optimize fleet operations',
     ],
   },
   {
     name: 'REAN Foundation',
     position: 'Product Manager and Marketer',
-    url: '', // Add URL if available
+    url: '',
     startDate: '2022-05-01',
     endDate: '2022-08-01',
     summary: 'Ashburn, VA',
@@ -75,7 +88,7 @@ const work = [
   {
     name: 'HackTJ',
     position: 'Director',
-    url: 'https://hacktj.org/', // Replace with specific URL if available
+    url: 'https://hacktj.org/',
     startDate: '2020-09-01',
     endDate: '2023-05-01',
     summary: 'Alexandria, VA',
@@ -89,7 +102,7 @@ const work = [
   {
     name: 'U.S. State Department',
     position: 'NSLI-Y Hindi Program Participant',
-    url: 'https://www.nsliforyouth.org/', // Replace with specific URL if available
+    url: 'https://www.nsliforyouth.org/',
     startDate: '2023-05-01',
     endDate: '2023-08-01',
     summary: 'Bangalore, India',
@@ -97,28 +110,17 @@ const work = [
       'Completed an intensive language immersion program sponsored by the U.S. Department of State, achieving advanced proficiency in Hindi',
     ],
   },
-  {
-    name: 'Self-employed',
-    position: 'Mathematics Tutor',
-    url: '', // Add URL if available
-    startDate: '2021-05-01',
-    endDate: '2023-08-01',
-    summary: 'Ashburn, VA',
-    highlights: [
-      'Engaged with four students, virtually and in-person, and taught difficult concepts in Calculus and Algebra',
-    ],
-  },
-  {
-    name: 'Panera Bread',
-    position: 'Cashier',
-    url: 'https://www.panerabread.com/', // Replace with specific URL if available
-    startDate: '2022-11-01',
-    endDate: '2023-06-01',
-    summary: 'Ashburn, Virginia',
-    highlights: [
-      'Provided excellent customer service, processing transactions accurately and efficiently; Handled customer concerns professionally and effectively',
-    ],
-  },
+  //{
+  //   name: 'Self-employed',
+  //   position: 'Mathematics Tutor',
+  //   url: '',
+  //   startDate: '2021-05-01',
+  //   endDate: '2023-08-01',
+  //   summary: 'Ashburn, VA',
+  //   highlights: [
+  //     'Engaged with four students, virtually and in-person, and taught difficult concepts in Calculus and Algebra',
+  //   ],
+  // },
 ];
 
 export default work;
