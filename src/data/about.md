@@ -1,55 +1,25 @@
-# Intro
+# About
 
-I'm Simrith. I'm studying computer science at Purdue!
+I'm Simrith, a Computer Science student at Purdue University with a concentration in Machine Intelligence.
 
-# Some history
+# Background
 
-<!-- - My parents are from Bihar. Their honeymoon was Washington D.C., and five years later, they had my older brother. Three years after that, they were BLESSED with twins--Amrith and Me, Simrith. -->
+- Graduated from Thomas Jefferson High School for Science and Technology in Alexandria, VA
+- Discovered my passion for computer science during high school, taking courses in Artificial Intelligence, Mobile and Web Development, and Computer Vision
+- Active in the tech community through leadership roles in HackTJ and the Conrad Challenge
 
-- I have older sibings. Sibling rivalry led me to try many sports (Gymnastics, Swimming, Ballet, Running), and to excel in coursework from a young age (specifically math).
-
-- We visit India, which is where my parents are from, many times!
-
-- In the summer of 2018, I joined Mathcounts competitions, and found out I had a knack for math.
-
-- In eighth grade, I made a life-alterating decision to attend a public magnet high school called Thomas Jefferson High School for Science and Technology.
-
-- Delayed learning computer science for as long as I could. Took my first course during the summer of the COVID-19 pandemic!
-
-- After AP Computer Science A, I took Artificial Intelligence and Mobile and Web Development. I learned that many concepts transfer between programming languages, but I was disappointed to be in a class consisting of 5 girls and 29 boys. The next year, I took Computer Vision and Neuroscience Research Lab.
-
-- Throughout high school, my favorite experiences were being HackTJ's director (in Resume) and the Conrad Challenge (in Project). I wonder what my favorite college memories will be!
-
-<!-- - My journey into tech is unique to me, but there are countless stories of women  -->
-
-# I like
+# Interests
 
 - Long Distance Running
-- Rom-Coms (Bollywood, K-Drama, How to Lose a Guy in 10 days)
+- Full Stack Development
+- Machine Learning and AI
 
-# Travel / Geography
+# Experience
 
-- I'm from Northern Virginia.
-- Where I've traveled: https://www.google.com/maps/d/u/0/edit?hl=en&mid=1jIRPzPL-qH15CU9WRQl7fsPSRN_Wq94&ll=3.9869170544420314%2C0&z=2
+I'm passionate about building impactful technology and mentoring others in the tech community. Currently working on projects involving AI, web development, and data science.
 
-# Fun facts
+Check out my [resume](#) for more details about my work experience and projects.
 
-- I have a twin!
-- Favorite Day of the Week: Monday. Because if I say it's my favorite, it makes it a little better.
+# Connect
 
-<!-- # I dream of
-
-- Inspiring and feeling inspired.
-- Being a female tech founder with my high social impact solution
-- Enabling a brighter future for everyone, regardless of political or socioeconomic status.
-- Treating every individual with genuine kindness and respect.
-- Staying curious.
-- Continually improving. -->
-
-# Resources (for tech)
-
-(still working on this feature ...)
-
-<!-- # Websites from people I admire
-
-If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me and I'll add you. -->
+Feel free to reach out if you'd like to collaborate or chat about tech!

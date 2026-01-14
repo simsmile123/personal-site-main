@@ -99,17 +99,17 @@ const work = [
       'Click the title to see our website',
     ],
   },
-  {
-    name: 'U.S. State Department',
-    position: 'NSLI-Y Hindi Program Participant',
-    url: 'https://www.nsliforyouth.org/',
-    startDate: '2023-05-01',
-    endDate: '2023-08-01',
-    summary: 'Bangalore, India',
-    highlights: [
-      'Completed an intensive language immersion program sponsored by the U.S. Department of State, achieving advanced proficiency in Hindi',
-    ],
-  },
+  // {
+  //   name: 'U.S. State Department',
+  //   position: 'NSLI-Y Hindi Program Participant',
+  //   url: 'https://www.nsliforyouth.org/',
+  //   startDate: '2023-05-01',
+  //   endDate: '2023-08-01',
+  //   summary: 'Bangalore, India',
+  //   highlights: [
+  //     'Completed an intensive language immersion program sponsored by the U.S. Department of State, achieving advanced proficiency in Hindi',
+  //   ],
+  // },
   //{
   //   name: 'Self-employed',
   //   position: 'Mathematics Tutor',
