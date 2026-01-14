@@ -99,28 +99,6 @@ const work = [
       'Click the title to see our website',
     ],
   },
-  // {
-  //   name: 'U.S. State Department',
-  //   position: 'NSLI-Y Hindi Program Participant',
-  //   url: 'https://www.nsliforyouth.org/',
-  //   startDate: '2023-05-01',
-  //   endDate: '2023-08-01',
-  //   summary: 'Bangalore, India',
-  //   highlights: [
-  //     'Completed an intensive language immersion program sponsored by the U.S. Department of State, achieving advanced proficiency in Hindi',
-  //   ],
-  // },
-  //{
-  //   name: 'Self-employed',
-  //   position: 'Mathematics Tutor',
-  //   url: '',
-  //   startDate: '2021-05-01',
-  //   endDate: '2023-08-01',
-  //   summary: 'Ashburn, VA',
-  //   highlights: [
-  //     'Engaged with four students, virtually and in-person, and taught difficult concepts in Calculus and Algebra',
-  //   ],
-  // },
 ];
 
 export default work;
