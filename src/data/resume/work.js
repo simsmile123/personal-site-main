@@ -38,7 +38,7 @@ const work = [
     ],
   },
   {
-    name: 'Purdue Google Developer Student Club',
+    name: 'Purdue Google Developer Group',
     position: 'Vice President',
     url: 'https://gdg.community.dev/gdg-on-campus-purdue-university-west-lafayette-united-states/',
     startDate: '2024-04-01',
