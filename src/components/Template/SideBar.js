@@ -23,11 +23,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi, I&apos;m Simrith. I am a{' '}
-        <a href="https://www.cs.purdue.edu/">Purdue CS</a> student and a
-        teaching assistant for{' '}
-        <a href="https://the-examples-book.com/crp/">
-          Purdue Data Mine Corporate Partners Program.
-        </a>
+        <a href="https://www.cs.purdue.edu/">Purdue CS</a> student.
         {/* software engineering intern at{' '}
         <a href="https://www.foodserviceconsultantsstudio.com/">FSC</a>. */}
         Previously, I went to{' '}
