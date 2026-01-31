@@ -26,7 +26,7 @@ const SideBar = () => (
         <a href="https://www.cs.purdue.edu/">Purdue CS</a> student.
         {/* software engineering intern at{' '}
         <a href="https://www.foodserviceconsultantsstudio.com/">FSC</a>. */}
-        Previously, I went to{' '}
+         Previously, I went to{' '}
         <a href="https://tjhsst.fcps.edu/">
           Thomas Jefferson High School for Science and Technology
         </a>

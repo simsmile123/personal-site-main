@@ -6,11 +6,11 @@ I'm Simrith, a Computer Science student at Purdue University with a concentratio
 
 - Graduated from Thomas Jefferson High School for Science and Technology in Alexandria, VA
 - Discovered my passion for computer science during high school, taking courses in Artificial Intelligence, Mobile and Web Development, and Computer Vision
-- Active in the tech community through leadership roles in HackTJ and the Conrad Challenge
 
 # Interests
 
 - Long Distance Running
+- Skiing
 - Full Stack Development
 - Machine Learning and AI
 
